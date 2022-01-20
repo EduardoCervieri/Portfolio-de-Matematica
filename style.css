@@ -1,0 +1,92 @@
+body {
+    background-image: linear-gradient(to right, #87ffad, #ff8787);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+#escola {
+    background-color: white;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-radius: 40px;
+    font-size: 22px;
+}
+
+#logo {
+    width: 137px;
+    vertical-align: middle
+}
+
+.titulo {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 30px;
+    background-color: #000a73;
+    color: white;
+    margin-left: 34%;
+    margin-right: 34%;
+}
+
+.texto {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: #faffe6;
+    color: black;
+    text-align: center;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+.botao {
+    text-align: center;
+    text-shadow: 0px 0px 1px purple;
+}
+
+#capa {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: #dfbfff;
+    text-align: center;
+    color: black;
+    text-shadow: 0px 0px 2px blue;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+}
+
+div#sumario {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: #faffe6;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 70px;
+}
+
+#tt {
+    margin-top: 70px;
+    margin-bottom: 70px;
+    font-size: 40px;
+}
+
+#nome{
+    text-align: right;
+}
